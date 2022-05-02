@@ -4,9 +4,9 @@ Basic Nextflow pipeline script to detect antibiotic resistance using NGS data.
 Tested only with single end Illumina fastq files present in one folder (e.g. 'rawdata')
 
 Using modules:
-    fastp for fastq files trimming
-    fasqc for fastq quality control
-    srst2 for antibiotic resistance prediction (https://github.com/katholt/srst2#output-files)
+    fastp for fastq files trimming.
+    fasqc for fastq quality control.
+    srst2 for antibiotic resistance prediction (https://github.com/katholt/srst2#output-files).
     
 
 Using singularity images from https://depot.galaxyproject.org/singularity/

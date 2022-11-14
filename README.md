@@ -4,7 +4,7 @@
 ![antimicrobial_resistance_ngs_1800x1800-1_Pollination_crop](https://user-images.githubusercontent.com/77884788/201698854-a5b1c9ea-dfa9-4d19-806c-cce157c31b0f.png)
 
 Basic *Nextflow* pipeline script to detect antibiotic resistance using NGS data.  
-Tested only with single end *Illumina* fastq files present in one folder (e.g. 'rawdata')
+Tested only with single-read *Illumina* fastq files present in one folder (e.g. 'rawdata')
 
 Using modules:  
 - fastp for fastq files trimming.

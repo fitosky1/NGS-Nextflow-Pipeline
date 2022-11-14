@@ -1,6 +1,8 @@
 # NGS Pipeline
 ## Antibiotic resistance
 
+![antimicrobial_resistance_ngs_450x450-1_waifu2x_art_noise1_scale_tta_1](https://user-images.githubusercontent.com/77884788/201693487-589f5b56-a865-415d-8d7d-4b4374f40c5e.png)
+
 Basic *Nextflow* pipeline script to detect antibiotic resistance using NGS data.  
 Tested only with single end *Illumina* fastq files present in one folder (e.g. 'rawdata')
 
